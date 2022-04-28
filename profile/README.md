@@ -1,11 +1,53 @@
-## Hi there 👋
+# Hi there 👋
 
-Founded in 2019 maherDEV is an individual enterprise. we offer software development services for businesses and individuals.
+At **maherDEV**, we transform businesses with powerful and adaptable digital solutions that satisfy the needs of today and unlock the opportunities of tomorrow.
+
+## ✅ Software Development:
+### 🟠 Desktop application
+### 🟠 Mobile Application
+### 🟠 Web application
+### 🟠 ERP Solution
+### 🟠 Design (UI/UX)
+### 🟠 Software Security
+
+## ✅ Web Development:
+### 🟠 Website development
+### 🟠 Search Engine Optimization (SEO)
+### 🟠 Web Hosting
+### 🟠 E-commerce
+### 🟠 Design (UI/UX)
+### 🟠 Web Security
+
+## ✅ Mobile Development :
+### 🟠 Mobile Application
+### 🟠 Design (UI/UX)
+### 🟠 Mobile Security
+
+## ✅ Data Analytics: 
+### 🟠 Business intelligence
+
+## ✅ Cloud:
+### 🟠 Web hosting
+### 🟠 Cloud security
+	
+## ✅ Security:
+### 🟠 Software security
+### 🟠 Web security
+### 🟠 Mobile security
+### 🟠 Cloud Security
+	
+## ✅ Digital marketing:
+### 🟠 Digital strategy
+### 🟠 Search Engine Optimization (SEO)
+### 🟠 Social media marketing (SMM)
+### 🟠 Content marketing
+### 🟠 Video Marketing
+
+## ✅ Design:
+### 🟠 Design (UI/UX)
+### 🟠 Graphic design
 
 <!--
-
-**Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
